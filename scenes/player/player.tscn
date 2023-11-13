@@ -52,13 +52,13 @@ wait_time = 2.0
 [node name="LaserStartPositions" type="Node2D" parent="."]
 
 [node name="Marker2D" type="Marker2D" parent="LaserStartPositions"]
-position = Vector2(91, 20)
+position = Vector2(101, 20)
 
 [node name="Marker2D2" type="Marker2D" parent="LaserStartPositions"]
-position = Vector2(83, 34)
+position = Vector2(101, 32)
 
 [node name="Marker2D3" type="Marker2D" parent="LaserStartPositions"]
-position = Vector2(84, 8)
+position = Vector2(101, 6)
 
 [node name="LaserParticleEmitter" type="GPUParticles2D" parent="."]
 position = Vector2(96, 20)
